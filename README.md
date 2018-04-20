@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+4/19/2018
 
 ### Student Name:  
-(First and Last Name)
+Nickson Jean Baptiste
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Creating an application which uses AJAX, JSON, and API.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://nj13b.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Using AJAX to load content to the page without reloading.
+2. Using JSON
+3. Connecting to an API
